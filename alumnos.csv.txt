@@ -1,0 +1,5 @@
+INSTITUCION,NOMBRE,GRADO,EDAD
+Liceo Central Bilingüe, Christopher Gomez, Octavo grado,14
+Instituto Liberacion, Marbella Figueroa, Decimo grado, 16
+La Mies Christian Blilinqual School, Jose Oseguera, Cuarto grado, 8
+Inatituto Rios de Agua Viva, Elena Medrano, Septimo grado, 13
